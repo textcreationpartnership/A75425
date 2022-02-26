@@ -1,0 +1,160 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An ansvver to severall obiections made against some things in Mr. Thomas Chaloners speech vvith an indifferent censure of those arguments delivered by him in the House of Commons upon the reading of the Scottish papers, concerning the votes of both Houses for the disposall of the Kings person.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75425</idno>
+            <idno type="STC">Wing A3377</idno>
+            <idno type="STC">Thomason E362_27</idno>
+            <idno type="STC">ESTC R201223</idno>
+            <idno type="EEBO-CITATION">99861755</idno>
+            <idno type="PROQUEST">99861755</idno>
+            <idno type="VID">113899</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75425)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113899)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 58:E362[27])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An ansvver to severall obiections made against some things in Mr. Thomas Chaloners speech vvith an indifferent censure of those arguments delivered by him in the House of Commons upon the reading of the Scottish papers, concerning the votes of both Houses for the disposall of the Kings person.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Francis Leach,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Nouemb 23".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Chaloner, Thomas, 1595-1661. --  Answer to the Scotch papers.</term>
+               <term>Charles --  I, --  King of England, 1600-1649.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113899:1" rendition="simple:additions"/>
+            <p>AN ANSWER To ſeverall Obiectons made againſt ſome things in Mr. THOMAS CHALONERS SPEECH VVith an indifferent Cenſure of thoſe Arguments delivered by him in the Houſe of Commons upon the reading of the <hi>Scottiſh</hi> Papers, concerning the Votes of both Houſes for the diſpoſall of the KINGS PERSON.</p>
+            <q>
+               <bibl>
+                  <hi>Proverbs 15.2<gap reason="illegible" resp="#MURP" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, 23.</hi>
+               </bibl>
+               <p>Without counſell, purpoſes are diſapointed: but in the multitude of Counſellers they are eſtabliſhed.</p>
+               <p>A man hath joy by the anſwere of his mouth: and a word ſpoken in due ſeaſon, how good is it?</p>
+            </q>
+            <p>London, Printed by <hi>Francis Leach</hi> 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="2" facs="tcp:113899:2" rendition="simple:additions"/>
+            <head>An indifferent Cenſure of Mr. <hi>Chaloner</hi> his Speech, delivered in the Houſe of Commons upon the reading of the Scottiſh Papers.</head>
+            <p>
+               <seg rend="decorInit">D</seg>Iviſions muſt needs be great, where miſtakes are frequent; and thoſe miſtakes whether of ignorance or wilfullneſſe, make diviſions wider then cleare underſtanding, though in diſſenting Opinions, would ſuffer them to grow, my hearty wiſhes are that I could compoſe differences in our owne Parity, to which my affection ſhall never bee wanting, though my underſtanding may faile in it. The reaſon of my adventure at this time is occaſio<g ref="char:EOLhyphen"/>ned upon Mr. <hi>Chaloners</hi> Speech in the Houſe of Commons, when the Scottiſh Papers were there read. It was my fortune to peru<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e that ſpeech: and what opinion I then conceived of it, I cannot yet receed from, though I have ſince ſeene a Paper in anſwer to it, or as the Author
+<pb n="3" facs="tcp:113899:2"/>calls it, Animadverſions upon it, as a thing unſafe and dangerous, ſtriking at the Honour of the Parliament, and intereſt of England. How the ſpeech ſhould be guilty of thoſe Aſperſions, I can neither find by any thing contained in it ſelfe, nor by any allegations of the Anſwer againſt it. I will therefore firſt deliver my own ſenſe con<g ref="char:EOLhyphen"/>cerning the ſpeech. The narrative part of it is undoubtedly true, the illuſtrative part, or matter of inſtance is very proper, if not extended by ignorant or wilfull miſtakes, beyond the pro<g ref="char:EOLhyphen"/>per latitude of an inſtance. his Reſult upon the whole matter, is no way derogatory from the Honour of the Parliament, as being no more then was already Voted in the Houſe, nor inju<g ref="char:EOLhyphen"/>rious to the Kings Perſon (though the anſwer be unſufferably injurious to <hi>Mr Chaloner,</hi> in falſe<g ref="char:EOLhyphen"/>ly aſperſing him with a perſonall grudge a<g ref="char:EOLhyphen"/>gainſt his Majeſty) of whoſe honour, ſafety and freedome. Hee ſpeaks no more, but with caution, as it ſtands inrelation to the honour, ſafety and freedome of the whole people: which latter (as all rationall men muſt needs grant) was firſt conſiderable both in the Co<g ref="char:EOLhyphen"/>venant, and the law of nature it ſelfe: but hee ſpeaks nothing at all againſt the King, <gap reason="illegible" resp="#MURP" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+               <pb n="4" facs="tcp:113899:3"/>is the debate of the Parliament come ſo far yet, as to queſtion how the Kings Perſon ſhall bee diſpoſed of; but by whom.</p>
+            <p>But it is ſtrange to obſerve how vainly this an<g ref="char:EOLhyphen"/>ſwer catches at parts &amp; inſtances of the ſpeech. To omit his Verball exception againſt the uſe of thoſe words <hi>abſtractum</hi> and <hi>concretum,</hi> howſo<g ref="char:EOLhyphen"/>ever pedantik people have confined the ſignifi<g ref="char:EOLhyphen"/>cation of ſuch termes: it is knowne that wiſe men in diſcourſes of ſtate have uſed them in that ſenſe, in which the ſpeech has, as he may find in one of theſe Scottiſh Lords, and none of the meaneſt in abilities among them, in his booke entituled <hi>Lex, Rex.</hi>
+            </p>
+            <p>As vaine is that exception, which hee takes againſt that moſt certaine truth in the ſpeech, that the perſon either of Prince or privat man, being in a forraigne ſtate, is at the ſole diſpoſe of that ſtate where hee reſides, and to be ruled by their laws: and for two inſtances he thinks to make Mr Chaloner aſhamed, one is a parti<g ref="char:EOLhyphen"/>cular caſe of Prince <hi>Charles</hi> his now being in <hi>France,</hi> and the other Generall of Embaſſa<g ref="char:EOLhyphen"/>dours in forraigne Lands. But let any man ſay (to ſpeak firſt of the Prince) whither Pr. <hi>Charles</hi> be not ſolely at the diſpoſe of the State of France
+<pb n="5" facs="tcp:113899:3"/>at this time I think no ſober man will deny it, and that he cannot be recalled either by King or Parliament (which this anſwerer would make a diſhonour to the Parliament) for the King ſent him thither in probability becauſe the Parlia<g ref="char:EOLhyphen"/>ment of <hi>England</hi> ſhould not diſpoſe of his per<g ref="char:EOLhyphen"/>ſon. It is likely the State of <hi>France</hi> gave him leave to come over, and may ſuffer him to returne a<g ref="char:EOLhyphen"/>gain according to ſome promiſe of theirs: but what uſe they may firſt make of him, and how long keep him, the Anſwerer cannot tell.</p>
+            <p>It is a knowne truth that Princes, who by misfortune, as ſtormes at Sea, or the like, have bin caſt unwillinglly upon other Princes Countries, not onely may, but have beene detay<g ref="char:EOLhyphen"/>ned by thoſe Princes, without imputation of Tyranny for taking that advantage. Was not <hi>Iames</hi> the firſt of Scotland being driven into <hi>Eng<g ref="char:EOLhyphen"/>land</hi> by croſſe windes, detayned many veares here by <hi>Henry</hi> the fourth, and <hi>Henery</hi> the fifth Kings of Engl. Was not <hi>Philip</hi> the firſt of <hi>Spaine</hi> driven upon the like accident on ſhoare in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> detained by <hi>Hen.</hi> 7th? and though that po<g ref="char:EOLhyphen"/>litike Prince vailed his Coercive power under a ſhew of curteous entertainement (as ſuch civi<g ref="char:EOLhyphen"/>lities are uſuall in State) yet King <hi>Philip</hi> finding
+<pb n="6" facs="tcp:113899:4"/>himſelfe a priſoner, was content to grant ſome things to <hi>Henry,</hi> which he would not have done had he beene in <hi>Spaine,</hi> as my <hi>Lo. Bacon</hi> writes. But to come neerer our time, the King that now is, can beſt tell what he feared, When hee was prince <hi>Charles</hi> in <hi>France,</hi> and poasted away from thence in diſguiſe, and I can tell what the pe<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ple feared for him in <hi>Spaine,</hi> and would more, had it not beene for the Queene of <hi>Bohemia</hi> and her Children.</p>
+            <p>And for his inſtance of Embaſſadours, what can that make againſt the Speech, or the honour (as he would have it) of the Parliament? for it is as plaine ſenſe as can be that Embaſſadours are protected by the faith of that State, where they reſide: for though they be by conſent of Nations to be protected perſons yet none but the State where they reſide, can ratify, and immediately give that protection.</p>
+            <p>Where he ſeems to laugh at the inſtance of K. <hi>Iohn,</hi> and ſayes that it ſtrengthens the <hi>Scottiſh</hi> Pa<g ref="char:EOLhyphen"/>pers; it appeares otherwiſe plainly in the Speech for it is there ſpoken as the opinion of Lawyers, if King <hi>Iohn</hi> had beene in <hi>Normandy</hi> at the time of the Summons, he ought to have bin tryed by the Lawes of <hi>France,</hi> as Duke of <hi>Normandy,</hi> what
+<pb n="7" facs="tcp:113899:4"/>ſoever had become of the King of <hi>England,</hi> and for the vaſt diſproportion (as the anſwerer calls it) between one that is King of one Kingdom, and Subject of another, and him who is a free King of two Kingdomes. <hi>I</hi> ſay the inſtance was not to extend to al points: or if it did, the anſwer<g ref="char:EOLhyphen"/>er is out in another kind, for there is alſo a vaſt diſproportion between a King of 2. Kingdoms ruling in peace and juſtice, and one, who hath beene long in actuall Warre againſt the repre<g ref="char:EOLhyphen"/>ſentative Bodies of his two Kingdomes, and now a priſoner in their Armies.</p>
+            <p>But as the inſtances were proper enough, the narration of the ſpeech is very true, and the caſe (though I will not preſume to decide any thing) ſtrange enough to admit of a debate: for it is a ſtrange thing, (as hee ſaith) <hi>That on Army of Sones in pay of the Kingdome of</hi> England, <hi>which by the trea<g ref="char:EOLhyphen"/>ty ought to be governed by the joynt conſent of the Com<g ref="char:EOLhyphen"/>mittees of both Kingdomes upon the place, ſhould in</hi> Eng<g ref="char:EOLhyphen"/>land <hi>take a King of</hi> England, <hi>without the privity of the Engliſh Committee and convey him to</hi> New caſtle, <hi>a Towne likewiſe of</hi> England, <hi>and there keepe him ſix whole Months, without the conſent of the Parliament of</hi> England. But hee came to them for a ſhelter,
+<pb n="8" facs="tcp:113899:5"/>Againſt whom? Againſt that Parliament for whom they fought, and into whoſe hands I do verily believe, he might have bin delivered with ſafety, and more happineſſe to himſelfe and all his good people.</p>
+            <p>I hope the intentions of our Brethren of <hi>Scotland</hi> were good in it, for I was ever loath to ſuſpect any evill from them.</p>
+            <p>But I am ſure the effects of that ſhelter have beene already very ſadde, as by jealouſies here, to keepe ſo many Armies at a needleſſe Charge, and hinder the reliefe of poore <hi>Ire<g ref="char:EOLhyphen"/>land.</hi>
+            </p>
+            <p>I have heard that ſome of the Kings Coun<g ref="char:EOLhyphen"/>ſell at <hi>Oxford</hi> adviſed him well: that if he would make an end of theſe calarnitous troubls, his beſt way was to come in (to his Engliſh Parliament, which was to come in to all his people: and that committing himſelfe to any other hands, was but a continuing of theſe diſtractions, which adviſe I would his Majeſty had follow<g ref="char:EOLhyphen"/>ed, or that God would bee pleaſed yet to direct him in the right way.</p>
+            <trailer>FJNJS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
